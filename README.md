@@ -5,12 +5,12 @@ Dado que haja a necessidade da escolha de um novo CEO ou até mesmo do President
 
 ### Pré-requisitos:
 
-Você precisa ter conhecimento em Blockchain e Solidity
+Conhecimento em Blockchain e Solidity
 
 
 ## Construído com:
 
-* [Solidity](https://docs.soliditylang.org/en/v0.8.17/) -Solidity is a language for implementing smart contracts.
+* [Solidity](https://docs.soliditylang.org/en/v0.8.17/) - Solidity is a language for implementing smart contracts.
 
 ## Author:
 
